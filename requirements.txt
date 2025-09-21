@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Model evaluation
+scipy
+
+# For managing notebooks (optional if using Jupyter)
+jupyter
+notebook
+
+# For saving models
+joblib
+
+# -e . 
+
